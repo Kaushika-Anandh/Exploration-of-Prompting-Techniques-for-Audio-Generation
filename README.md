@@ -42,11 +42,10 @@ Outputs are shaped by the clarity and specificity of the input.
 **Likely output:** Generic, non-specific calming music.<br>
 **Output:**
 <figure class="video_container">
- <video controls="true" allowfullscreen="true">
- <source src="Screen Recording 2024-11-20 214609.mp4" type="video/mp4">
- </video>
+  <iframe src="Screen Recording 2024-11-20 214609.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
 </figure>
-
+<br>
 
 **Refined Prompt:**
 ```
