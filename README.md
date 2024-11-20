@@ -41,8 +41,12 @@ Outputs are shaped by the clarity and specificity of the input.
 ```
 **Likely output:** Generic, non-specific calming music.<br>
 **Output:**
-<video controls src="Screen Recording 2024-11-20 214609.mp4" title="Title"></video>
-<br>
+<figure class="video_container">
+ <video controls="true" allowfullscreen="true">
+ <source src="Screen Recording 2024-11-20 214609.mp4" type="video/mp4">
+ </video>
+</figure>
+
 
 **Refined Prompt:**
 ```
@@ -50,7 +54,11 @@ Outputs are shaped by the clarity and specificity of the input.
 ```
 **Likely output:** A focused acoustic beat with specific lo-fi tones and timing.<br>
 **Output:**
-<video controls src="Audio2.mp4" title="Title"></video>
+<figure class="video_container">
+ <video controls="true" allowfullscreen="true">
+ <source src="Audio2.mp4" type="video/mp4">
+ </video>
+</figure>
 <br>
 
 **B. Speech or Voice Generation**<br><br>
