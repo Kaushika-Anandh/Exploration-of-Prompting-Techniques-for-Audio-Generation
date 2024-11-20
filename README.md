@@ -40,19 +40,18 @@ Outputs are shaped by the clarity and specificity of the input.
 "Generate soft guitar music."
 ```
 **Likely output:** Generic, non-specific calming music.<br>
-**Output:**<br>
-[![Watch the video](https://github.com/Kaushika-Anandh/Exploration-of-Prompting-Techniques-for-Audio-Generation/blob/main/image.png)](https://github.com/Kaushika-Anandh/Exploration-of-Prompting-Techniques-for-Audio-Generation/blob/main/Screen%20Recording%202024-11-20%20214609.mp4)
+
+**Output:** Refer "Screen Recording 2024-11-20 214609.mp4" from the repository. 
 <br>
 
 **Refined Prompt:**
 ```
-"Generate a 2-minute soft acoustic music for studying, keep the theme in lo-fi and add a slow tempo (around 60 BPM)"
+"Generate a 2-minute soft acoustic music for studying,
+keep the theme in lo-fi and add a slow tempo (around 60 BPM)"
 ```
 **Likely output:** A focused acoustic beat with specific lo-fi tones and timing.<br>
-**Output:**
-<figure class="video_container">
- <video controls="true" allowfullscreen="true">
- <source src="Audio2.mp4" type="video/mp4">
+
+**Output:** Refer "Audio2.mp4" from the repository.
  </video>
 </figure>
 <br>
@@ -63,13 +62,13 @@ Outputs are shaped by the clarity and specificity of the input.
 "Generate a voice reading a script."
 ```
 **Likely output:** Robotic or general delivery with a standard accent.<br>
-**Output:**
-<video controls src="20241120-1638-43.1489227.mp4" title="Title"></video>
-<br>
+
+**Output:** Refer "20241120-1638-43.1489227.mp4" from this repository.<br>
 
 **Refined Prompt:**
 ```
-"Generate a enthusiatic and friendly male voice with an American accent reading the script below for a podcast introduction for a news channel. Maintain a professional yet approachable tone.
+"Generate a enthusiatic and friendly male voice with an American accent reading the script below for a podcast introduction for a news channel. 
+Maintain a professional yet approachable tone.
 
 Script: 
 Welcome to "Are You Sure?" the podcast that takes a second look at the headlines. We're here to dig deeper, question the narratives, and separate fact from fiction. Because in today's world of clickbait and misinformation, it's easy to get lost in the noise. Join us as we break down the news, challenge the status quo, and give you the tools to think critically. So, the next time you hear a shocking headline, pause, take a breath, and ask yourself, "Are you sure?""
@@ -77,9 +76,7 @@ Welcome to "Are You Sure?" the podcast that takes a second look at the headlines
 
 **Likely output:** A tailored voiceover with an approachable and friendly accent for a podcast from a news channel.<br>
 
-**Output:**
-<video controls src="20241120-1643-30.9861144.mp4" title="Title"></video>
-<br>
+**Output:** Refer "20241120-1643-30.9861144.mp4" from this repository.
 
 **C. Sound Effects**<br><br>
 **Naive Prompt:**
@@ -87,9 +84,8 @@ Welcome to "Are You Sure?" the podcast that takes a second look at the headlines
 "Generate rain sounds."
 ```
 **Likely output:** General rain noises, may not sound accurate or upto expectation.<br>
-**Output:**
-<video controls src="20241120-1648-42.7916271.mp4" title="Title"></video>
-<br>
+
+**Output:** Refer "20241120-1648-42.7916271.mp4" from this repository.
 
 **Refined Prompt:**
 ```
@@ -97,9 +93,8 @@ Welcome to "Are You Sure?" the podcast that takes a second look at the headlines
 ```
 
 **Likely output:** Layered, detailed study-focus music with rain behind along with lofi music and pencil writing sound effects.<br>
-**Output:**
-<video controls src="20241120-1652-01.7746535.mp4" title="Title"></video>
-<br>
+
+**Output:** Refer "20241120-1652-01.7746535.mp4" from this repository.
 
 **D. Multimodal Inputs, Combine text with audio references:**<br><br>
 Example: 
@@ -108,17 +103,19 @@ Example:
 ```
 
 **Output:** A soft xylophonic-orchestral arrangement inspired by the reference audio with the post-climax build-up.<br>
-<video controls src="20241120-1701-06.7193109.mp4" title="Title"></video>
-<br>
+
+Refer "20241120-1701-06.7193109.mp4" from this repository.
 
 ### 3. Advanced Techniques
 **A. Iterative Prompting**<br><br>
 - Start with a broad prompt, refine after initial output.
 - Prompt 1: ```"Generate a 30-second simple jazz tune."```<br>
-<video controls src="20241120-1711-17.0073022.mp4" title="Title"></video><br>
+
+    - Refer "20241120-1711-17.0073022.mp4" from this repository.
 
 - Prompt 2: ```"feature a saxophone solo and double bass accompaniment."```<br>
-<video controls src="20241120-1715-39.3283417.mp4" title="Title"></video>
+
+    - Refer "20241120-1715-39.3283417.mp4" from this repository.
 
 - **Outcome:** The initial prompt seemed generic, but the layering of saxophone and double bass features created a perfect jazz-snippet with more fine-tuned details.<br><br>
 
@@ -127,14 +124,13 @@ Example:
     - **Volume:** "Create soft background music."
     - **Tempo:** "Set the tempo to 120 BPM."
 - Prompt :``` create a soft background music, keep the genre as lofi and set the tempo to 80BPM.```<br>
-<video controls src="20241120-1720-35.7184973.mp4" title="Title"></video>
+    - Refer "20241120-1720-35.7184973.mp4" from this repository.
 
 - **Outcome:** Providing parameter adjustment gave more emphasis to the genre, tempo, and volume, giving a more significant 
 
 **C. Multi-Language or Accent Variations**
 - Prompt: ```"Generate a French-accented male voice speaking in English."```
-<video controls src="20241120-1757-33.3037004.mp4" title="Title"></video>
-<br>
+    - Refer "20241120-1757-33.3037004.mp4" from this repository.
 
 - **Outcome**: The generated text gave two different options
     - Opt 1: Use a male french voice over text which makes the french-accented English Voice
