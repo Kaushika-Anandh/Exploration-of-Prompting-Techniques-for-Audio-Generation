@@ -40,11 +40,8 @@ Outputs are shaped by the clarity and specificity of the input.
 "Generate soft guitar music."
 ```
 **Likely output:** Generic, non-specific calming music.<br>
-**Output:**
-<figure class="video_container">
-  <iframe src="Screen Recording 2024-11-20 214609.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+**Output:**<br>
+[![Watch the video](https://github.com/Kaushika-Anandh/Exploration-of-Prompting-Techniques-for-Audio-Generation/blob/main/image.png)](https://github.com/Kaushika-Anandh/Exploration-of-Prompting-Techniques-for-Audio-Generation/blob/main/Screen%20Recording%202024-11-20%20214609.mp4)
 <br>
 
 **Refined Prompt:**
